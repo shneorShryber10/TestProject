@@ -1,0 +1,14 @@
+body {
+  background: aliceblue;
+}
+
+.test {
+  justify-content: center;
+}
+.test .test-ul {
+  font-size: 20px;
+  list-style: none;
+}
+.test .test-ul li {
+  margin-top: 5px;
+}/*# sourceMappingURL=HomePage.css.map */

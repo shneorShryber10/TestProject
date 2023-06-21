@@ -1,0 +1,21 @@
+.singl-question {
+  list-style: none;
+  margin-left: auto;
+  /*  button{
+       height:40px;
+       width: 100px;
+       border-radius: 20%;
+       border: none;
+       background: rgb(255, 0, 0);
+       color:rgb(255, 255, 255);
+       margin-right: 900px;
+   } */
+}
+.singl-question li {
+  margin-top: 15px;
+}
+.singl-question li span:hover {
+  background-color: black;
+  color: beige;
+  cursor: pointer;
+}/*# sourceMappingURL=StartTest.css.map */

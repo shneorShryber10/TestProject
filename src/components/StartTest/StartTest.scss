@@ -1,0 +1,25 @@
+.singl-question
+{
+    list-style: none;
+    margin-left: auto;
+
+    li{
+        margin-top: 15px;
+        span:hover{
+            
+                background-color: black;
+                color: beige;
+                cursor: pointer;
+                     
+         } 
+    }
+   /*  button{
+        height:40px;
+        width: 100px;
+        border-radius: 20%;
+        border: none;
+        background: rgb(255, 0, 0);
+        color:rgb(255, 255, 255);
+        margin-right: 900px;
+    } */
+}
